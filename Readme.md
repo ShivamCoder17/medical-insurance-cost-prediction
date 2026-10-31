@@ -175,7 +175,7 @@ medical-insurance-cost-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/medical-insurance-cost-prediction.git
+git clone https://github.com/ShivamCoder17/medical-insurance-cost-prediction.git
 
 cd medical-insurance-cost-prediction
 ```
